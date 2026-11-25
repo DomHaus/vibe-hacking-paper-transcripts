@@ -1,4 +1,4 @@
-# Vibe Hacking — Supplementary AI Transcripts
+# Vibe Hacking - Supplementary AI Transcripts
 
 This repository contains the full prompts and generative-AI responses behind the paper:
 
@@ -11,7 +11,7 @@ provides the complete transcripts for transparency and reproducibility.
 
 ## Scope
 
-Three hands-on IoT exercises from the SEPP course were attempted with three freely
+Three hands-on IoT exercises from the SEPP course were attempted with three public and cost-free
 available assistants (ChatGPT, Microsoft Copilot, Google Gemini), plus an automated
 attack against the intentionally vulnerable VM *Metasploitable 2* via an MCP server.
 
